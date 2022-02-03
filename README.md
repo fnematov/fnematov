@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer from Uzbekistan and nowadays working with [StormPay](https://stormpay.io/) team.
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fnematov&show_icons=true&theme=white&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnematov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
