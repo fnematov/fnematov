@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer from Uzbekistan and nowadays working with [StormPay](https://stormpay.io/) team.
+I am a software developer from Uzbekistan and nowadays working with [Moneff](https://moneff.com/) team.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fnematov&show_icons=true&theme=white&count_private=true)
